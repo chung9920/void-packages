@@ -111,6 +111,7 @@ libgmodule-2.0.so.0 glib-2.86.0_1
 libgio-2.0.so.0 glib-2.86.0_1
 libgobject-2.0.so.0 glib-2.86.0_1
 libgirepository-2.0.so.0 glib-2.86.0_1
+libwld.so neuwld-0.0.20260517_1
 libwt.so.4.12.0 wt-4.12.0_1
 libwtdbo.so.4.12.0 wt-4.12.0_1
 libwtdbosqlite3.so.4.12.0 wt-4.12.0_1
